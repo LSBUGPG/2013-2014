@@ -1,0 +1,34 @@
+#summary week 8 semester 2 notes
+
+ * mathematics anxiety results
+  * [https://docs.google.com/spreadsheet/oimg?key=0Ah00c0DlZRZZdDZZMFhKRlVVNU5yM1pDbE5ZQ01jSXc&oid=2&zx=e9qvd0ze20yk graph]
+  * [https://docs.google.com/spreadsheet/oimg?key=0Ah00c0DlZRZZdDZZMFhKRlVVNU5yM1pDbE5ZQ01jSXc&oid=4&zx=5gz54vt9szyo histogram]
+   * what is a histogram?
+  * anxiety / stress relieving tips
+   * brainstorm...
+
+ * Brussels Sprouts game
+  * how many moves did it take to complete?
+  * what difference does more or less starting points make?
+  * make a guess to compute the number of moves
+  * can we prove it
+   * topology (back to Euler)
+   * start with a triangle...
+
+ * technology trees
+  * what games use these?
+  * what is the rule for building?
+  * reverse engineer a game technology tree?
+
+ * searching algorithm
+  * chase the lady
+  * analyse the problem
+  * brainstorming solutions
+  * binary chop!
+   * finding Computer Games in yellow pages
+  * measure the steps
+  * precision versus accuracy
+  * O notation
+   * back to logs
+    * base 10
+    * [http://gabrielecirulli.github.io/2048/ base 2]

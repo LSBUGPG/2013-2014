@@ -1,0 +1,52 @@
+Contains Folders labelled by week for each exercise
+Development Log folder
+Inspirations folder
+
+Links to all the games provided below
+
+
+LINKS:
+----------------------------------------------
+Dev Log
+http://david-crawford.blogspot.co.uk/
+
+Profile
+http://scratch.mit.edu/users/Elcandy/
+
+Week 1
+http://scratch.mit.edu/projects/12627448/
+
+Week 2
+http://scratch.mit.edu/projects/12834885/
+http://scratch.mit.edu/projects/13043258/
+
+Week 3
+http://scratch.mit.edu/projects/13045642/
+
+Week 4
+http://scratch.mit.edu/projects/13246028/
+http://scratch.mit.edu/projects/13246595/
+
+Week 5
+http://scratch.mit.edu/projects/13480540/
+
+Week 6
+http://scratch.mit.edu/projects/13915133/
+
+Week 7
+https://docs.google.com/spreadsheet/ccc?key=0AqPv9gb2mwe4dEItMF94TlBMT1Z2ZUM0c283X0FXa0E&usp=drive_web#gid=0
+
+Week 8
+http://scratch.mit.edu/projects/13245641/
+
+Week 9
+http://scratch.mit.edu/projects/14463916/
+
+Week 10
+http://scratch.mit.edu/projects/14738392/
+
+Week 11
+http://scratch.mit.edu/projects/14969245/
+
+Week 12
+http://scratch.mit.edu/projects/14966176/

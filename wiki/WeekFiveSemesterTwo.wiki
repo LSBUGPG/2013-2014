@@ -1,0 +1,58 @@
+#summary lecture notes
+
+ * feedback
+  * A.I.
+  * Unity 2D
+  * maths into context
+  * can we make a Mandelbrot picture in Unity?
+  * can we fit all this in...?
+  * keep it coming...
+
+ * mistakes in the news
+  * [https://www.imperialviolet.org/2014/02/22/applebug.html goto fail;]
+  * what can we learn from this mistake?
+
+ * warm up
+  * implement a flashing sprite
+   * create a texture
+   * import as sprite
+   * get Sprite component
+   * cast to SpriteRenderer
+   * set color.a to sin(time)
+    * result is in the range -1 to 1
+    * how do we get that into the range 0 to 1?
+    * add a speed variable
+    * 1 flash per second?
+
+ * aiming
+  * implement a tank and target and shot
+   * (inverted image MS paint)
+   * (import advanced for alpha)
+   * add rigidBody2D for shot
+  * what is the scale of the world?
+  * setup script to fire at target
+   * variables for shot and target
+   * variables for velocity and angle
+   * when shot position is lower than tank... shoot
+   * add shoot
+    * set position of shot to position of tank
+    * zero out angular velocity
+    * set velocity using trig functions
+    * what angle gives the maximum range?   
+  * auto aiming
+   * find the range
+   * find the [http://en.wikipedia.org/wiki/Trajectory angle of elevation]
+
+ * [http://en.wikipedia.org/wiki/Mandelbrot_set Mandelbrot]
+  * set up ortho camera
+  * add a sprite + script
+  * create a new Texture2D
+  * create a new sprite with Sprite.Create
+   * Rect in pixels, Offset in units, 100 pixels to a unit
+   * fill to test
+   * don't forget to Apply() changes
+  * pixel to complex number
+  * z = z*z + c
+   * adding complex numbers
+   * [http://www.mathsisfun.com/algebra/complex-number-multiply.html multiplying complex numbers]
+   * colour the pixel on the number of iterations

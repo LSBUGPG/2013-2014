@@ -1,0 +1,32 @@
+#summary week ten notes
+
+= Last week =
+
+ * composing a picture (using blocks)
+
+= Learning =
+
+ * how to cheat at a maths test
+ * fly on the ceiling
+ * [http://www.youtube.com/watch?v=WUiXwqfVD4E the] [http://www.virtualapple.org/J_appletrekdisk.html game] that taught me angles
+
+= This week =
+
+ * principles of good game program design
+  * high or low cohesion
+  * tight or loose coupling
+
+ * object-oriented vs procedural
+  * tell don't ask principle
+  * object-oriented in name only
+  * temporal coupling
+  * parallel programming
+  * continuation
+
+ * splitting out objects
+ * non-obvious objects
+ * avoiding God objects
+
+= Exercise =
+
+ * decompose a classic

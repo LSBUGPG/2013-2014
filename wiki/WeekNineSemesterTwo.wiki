@@ -1,0 +1,35 @@
+#summary week 9 semester 2 notes
+
+ * review of last week
+  * searching algorithms
+
+ * comparing algorithms
+  * measurement
+   * what
+   * how
+  * generalising
+   * scaling up for an unknown amount of data
+
+ * a most extraordinary [https://www.youtube.com/watch?v=pfa3MHLLSWI game]
+  * did anyone get the answer
+  * let's see the answer
+  * how was this done?
+
+ * using BinarySearch
+  * finding a word in a dictionary
+   * split the list in two
+   * discard the half the answer isn't in
+   * repeat
+  * Unity
+   * import dictionary as TextAsset
+   * use String.Split to convert to an array of words
+    * funny syntax {{{Split("\n"[0])}}}
+   * use {{{String.CompareOrdinal}}} to compare strings alphabetically
+   * range convention (from is inclusive, to is exclusive)
+   * how do we find the middle?
+   * be careful with edge cases
+
+
+ * can we beat binary search?
+ * did anyone beat 2048
+  * techniques

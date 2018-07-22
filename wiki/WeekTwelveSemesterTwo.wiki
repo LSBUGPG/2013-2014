@@ -1,0 +1,24 @@
+#summary week 12 semester 2 notes
+
+ * what have you learned this week?
+
+ * review Sudoku program progress
+  * [http://krazydad.com/ipuzzles/?id=KD_Sudoku_EZ-B1-P1 Sudoku examples]
+  * [http://krazydad.com/ipuzzles/?id=KD_Sudoku_IN-B1-P1 Difficult examples]
+  * SudokuPartOne
+  * what is working / isn't working?
+  * what do the tests test?
+   * what do the tests test that's different from the other tests?
+  * can we improve them?
+   * automate the running
+
+  * back to the [https://www.youtube.com/watch?v=EKWGGDXe5MA filing clerk analogy]
+
+  * review our top level algorithm:
+   * take any puzzle
+   * if you can't find an empty cell... we're done, otherwise...
+   * try a number in the empty cell: is it valid?
+    * if yes, pass the new puzzle to the solver
+    * if no, try another number - if no number fits, the puzzle is unsolvable
+
+ * SudokuPartTwo

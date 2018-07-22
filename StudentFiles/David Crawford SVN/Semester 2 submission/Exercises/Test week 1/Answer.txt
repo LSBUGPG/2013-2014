@@ -1,0 +1,15 @@
+#pragma strict
+
+function OnTriggerEnter(col: Collider){
+    if(col.tag == "Player")
+    {
+       col.transform.parent = transform.parent; 
+    }
+}
+
+function OnTriggerExit(col: Collider){
+    if(col.tag == "Player")
+    {
+       col.transform.parent = null; 
+    }
+}

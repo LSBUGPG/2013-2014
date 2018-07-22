@@ -1,0 +1,16 @@
+#summary week eight notes
+
+= This week =
+
+ * learning practice
+ * what have you learned this week?
+ * what kind of knowledge?
+ * what have I learned this week?
+
+ * working in teams
+ * [TortoiseSVN]
+ * using source control tutorial
+
+= Exercise =
+
+ * [http://www.plainenglish.co.uk/campaigning/awards/2012-awards/golden-bull-awards.html Golden Bull]

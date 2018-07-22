@@ -1,0 +1,39 @@
+#summary notes for week 2
+
+= Know your enemy =
+
+  * welcome programmers
+  * the module guide
+  * Google Code sign-up
+  * now for the "real" programming
+    * Turing
+    * completeness
+  * what makes a good programmer
+    * which subjects are most important
+    * guess my grades?
+  * why programming is difficult
+    * terminology
+      * algorithm
+      * Boolean
+      * sprite
+      * ?
+    * a ProgrammerGlossary
+    * consistency
+    * creative thinking
+    * computational thinking
+  * the biggest enemies in programming
+  * the imposter
+    * find the imposter
+    * stereotyping
+    * reasons why I can't program
+    * brain freeze ([http://www.youtube.com/watch?v=DHMF-bVxlkc choke])
+    * self-deprecating language
+  * the adversary
+    * if it can go wrong...
+    * cryptography "obscurity is not security"
+  * beating the enemies
+    * turn the adversary to your advantage
+    * values affirmation
+    * rubber duck debugging
+    * pair programming
+    * self-testing

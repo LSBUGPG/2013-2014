@@ -1,0 +1,37 @@
+#summary week two CW2 example
+
+= Task =
+
+Create a simple UnityScript program to interpolate something in your Unity Scene.
+
+= Code =
+
+{{{
+#pragma strict
+
+var from: Transform;
+var to: Transform;
+
+var amount: float = 0;
+
+function Update() {
+	
+	amount += Time.deltaTime;
+	transform.position = Vector3.Lerp(from.position, to.position, Mathf.Repeat(amount, 1));
+}
+}}}
+
+= Notes =
+
+The two transforms: `from` and `to` represent the start and end of the interpolation. The variable `amount` represents the current progress through the interpolation. The function `Mathf.Repeat` takes a value and modulates it to the given range; in this example the range is 0 to 1.
+
+= Submission =
+
+Submitted as a .js file to source control.
+
+= Task Log =
+
+|| *Task* || *Date* || *Start* || *End* || *Interruptions* || *Hours* ||
+|| Write out problem statement || 09/05/2014 || 11:00 || 11:05 || || 0.08 ||
+|| Write and test code || 09/05/2014 || 11:05 || 11:10 || || 0.08 ||
+|| Submit work to source control || 09/05/2014 || 11:10 || 11:15 || || 0.08 ||

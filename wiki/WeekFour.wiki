@@ -1,0 +1,23 @@
+#summary week four notes
+
+= Last week =
+
+ * review last week's exercises
+ * my [http://scratch.mit.edu/discuss/topic/17680/ bug report] on the stop block
+ * check submissions
+ * I need a ScratchDirectory
+
+= This week =
+
+ * what day is it?
+  * [http://www.fourmilab.ch/babbage/sketch.html steam powered computing in the 19th century]
+  * [http://upload.wikimedia.org/wikipedia/commons/2/2e/Abramowitz%26Stegun.page97.agr.jpg number tables]
+  * [http://youtu.be/BlbQsKpq3Ak?t=1m15s differences]
+  * algorithms and recursive definitions
+  * the Numbers of Bernoulli
+ * loops
+  * [http://www.youtube.com/watch?v=Cn3ogzLzxuM&feature=youtu.be&t=2m34s spaghetti code]
+  * GOTO considered harmful - Dijkstra
+  * remove repetition
+  * draw shapes
+  * layout grids

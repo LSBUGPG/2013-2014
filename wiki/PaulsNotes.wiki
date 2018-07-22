@@ -1,0 +1,29 @@
+#summary Brief notes for lectures and activities
+
+= Week by week =
+
+ * WeekOne: introduction
+ * WeekTwo: the enemies of programming
+ * WeekThree: adventure game logic
+ * WeekFour: the game loop
+ * WeekFive: structure and game data
+ * WeekSix: problem solving
+ * WeekSeven: estimation
+ * WeekEight: working together
+ * WeekNine: a sense of scale
+ * WeekTen: object-oriented game programming
+ * WeekEleven: random numbers
+ * WeekTwelve: wrap up
+
+ * WeekOneSemesterTwo: from Scratch to Unity Script
+ * WeekTwoSemesterTwo: into the third dimension
+ * WeekThreeSemesterTwo:
+ * WeekFourSemesterTwo:
+ * WeekFiveSemesterTwo:
+ * WeekSixSemesterTwo:
+ * WeekSevenSemesterTwo:
+ * WeekEightSemesterTwo:
+ * WeekNineSemesterTwo:
+ * WeekTenSemesterTwo:
+ * WeekElevenSemesterTwo:
+ * WeekTwelveSemesterTwo:

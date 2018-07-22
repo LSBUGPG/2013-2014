@@ -1,0 +1,7 @@
+Original:
+
+Billing Day means a day falling no earlier than 5 Working Days after the last day of that Billing Period or such other day as Transport for London may in the particular circumstances of the case determine on which Transport for London shall take the automatic payment under paragraph (8) of the Scheme Order.
+
+Edit:
+
+The billing day falls after 5 working days of the last billing period, or on any other day that Transport for London find it appropriate for the automatic payment to commence.

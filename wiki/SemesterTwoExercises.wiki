@@ -1,0 +1,44 @@
+#summary weekly exercises for semester 2
+
+Week 1
+ In the class we looked at code formatting and how laying out your code neatly can help you to detect bugs and errors in your programs. We also discussed assessment and the paradox teachers face in that we rarely want you to show what we've just demonstrated but how you can apply the knowledge more generally.
+
+ The exercise for this is was to attempt to create an exam style question that you feel tests a students knowledge of the subjects discussed in class. [WeekOneCourseWorkTwoExample My example] uses the Butler study on comments and scores as feedback that we discussed in class. Choose a different topic for your own exam style question. Create your question as a text file and submit to your folder in source control.
+
+Week 2
+ In this class we worked through how interpolation worked and applied it to an example program.
+
+ The exercise for this week is to create your own example use of interpolation in a Unity program. Submit your UnityScript .js or c# file to source control.
+
+ [WeekTwoCourseWorkTwoExample My example.]
+
+Week 3
+ In this class we examined 3D terminology and what the terms represent in terms of a game engine and moving objects around.
+
+ The exercise for this week is to combine the script created in the previous exercise over multiple game objects. By connecting interpolating objects together what kinds of paths of motion can you create. By attaching a trail renderer to a game object you can see the path carved out by the moving object. Submit a screengrab of your object trail and provide a diagram showing how you connected your interpolating objects together.
+
+ [WeekThreeCourseWorkTwoExample My example] puts the interpolating objects together in order to create a spline.
+
+Week 4
+ No exercise for this week.
+
+Week 5
+ In class we looked at how to find a solution to a problem online and convert it into program. [WeekFiveCourseWorkTwoExample My example] looked at taking the formula for calculating a trajectory and using it to create an A.I. that can fire a projectile at a given target. (Don't submit this example, work out one of your own.)
+
+Week 6
+ No exercise for this week.
+
+Week 7
+ No exercise for this week.
+
+Week 8
+ In class we considered the game concept of a technology tree. The exercise for this week was take a simple game design and figure out which technological components you would need before you could create the game. Here is [WeekEightCourseWorkTwoExample my example] based on the game Flappy Bird. (Choose a different game for your own technology tree.) I have indicated a dependency with arrows. The dotted lines represent an optional dependency: that is, you can implement collision detection using either sprites, or numbers, or both.
+
+Week 9
+ No exercise for this week.
+
+Week 10
+ I asked you to take some familiar object and describe it as if you were a Martian who had no previous experience of this thing. In class we looked at how we might describe a tree. [WeekTenCourseWorkTwoExample My example] also uses a tree so choose something else as your example.
+
+Week 11
+ No exercise for this week.

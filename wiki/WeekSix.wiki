@@ -1,0 +1,31 @@
+#summary week six notes
+
+= Last week =
+
+ * binary trees, review
+ * The Matrix
+  * [http://onwardstate.com/wp-content/uploads/2010/04/red-pill-or-blue-pill.jpg blue pill or red pill?]
+
+= This week =
+
+ * Problem solving techniques
+  * [http://consumeconsume.com/post/58477907807 don't ][http://theworldaccordingtoalice.files.wordpress.com/2013/03/game-over-man-game-over.jpg give ][http://scratch.mit.edu/projects/12769669/ up]
+  * Aporia
+  * Zeno's paradoxes and Thompson's lamp
+  * take a break
+
+= Break =
+
+ * Halloween studio
+
+= Back to problem solving techniques =
+
+ * solving a different problem
+ * research
+ * spike it
+ * low hanging fruit
+ * black-box abstraction
+  * divide and conquer
+  * recursion
+
+= Make something for Halloween =

@@ -1,0 +1,27 @@
+#summary week 11 semester 2 notes
+
+ * what have you learned this week?
+
+ * filing clerk analogy
+
+ * [http://krazydad.com/ipuzzles/?id=KD_Sudoku_EZ-B1-P1 Sudoku examples]
+ * [http://krazydad.com/ipuzzles/?id=KD_Sudoku_IN-B1-P1 Difficult examples]
+
+ * can we write a program to solve any Sudoku?
+ * what approaches can we take:
+  * brute force
+   * how many possible Sudoku's are there
+  * back-tracker
+
+ * Unity program to display a Sudoku
+  * represent the numbers with an array
+   * represent an unsolved square with 0
+  * use nested loops to produce the grid
+  * use GUI.Label to draw a square
+   * use GUI.skin.label to format
+
+ * algorithm to work out if any sequence of 9 has a duplicate?
+  * how do we know if it works?
+  * write a self test
+
+ * SudokuPartOne

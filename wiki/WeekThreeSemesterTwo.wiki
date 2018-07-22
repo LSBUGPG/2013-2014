@@ -1,0 +1,27 @@
+#summary semester 2 week 3
+
+= The third dimension (cont.) =
+
+ * terminology:
+  * review interpolation
+   * Mathf
+  * the origin
+   * frames of reference
+   * local space, world space, parent space
+  * vertex and vertices
+  * matrix and matrices
+   * Unity transforms
+   * why matrices?
+  * Euler angles and quaternions
+   * measuring angles
+    * inches vs centimetres
+    * pounds vs kilograms
+    * megabytes vs mebibytes
+    * radians vs degrees
+     * Radians and [http://www.youtube.com/watch?v=jG7vhMMXagQ Tau]
+   * Euler rotation order
+   * quaternions
+    * imaginary numbers in the 4th dimension!
+   * spherical linear interpolation (slerp)
+  * splines
+   * if we have time?

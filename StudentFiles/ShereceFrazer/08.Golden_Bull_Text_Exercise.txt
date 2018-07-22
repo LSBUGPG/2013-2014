@@ -1,0 +1,16 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 Calibri;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww9000\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\ri380\sl276\slmult1\sa200
+
+\f0\b\fs22 \cf0 \ul \ulc0 Before:
+\b0 \ulnone \
+UBS believe that the \'91New Normal\'92 economic environment of relatively low growth means that the ability to differentiate between secular and cyclical growth opportunities becomes more important and that for the foreseeable future the main driving influence on market sentiment will be the structural adjustments and the political capital required to help mitigate the contractionary influence of low growth. What this means for portfolio construction is that in a low growth, low return, capital constrained environment, competitive advantage favours a combination of income generative, conservatively funded, self sustaining businesses - groups that UBS class as \'93dividend aristocrats\'94 and who are experiencing secular growth. This leads UBS to their long-term core investment objective of being invested in high quality businesses.\
+\
+
+\b \ul After:
+\b0 \ulnone \
+UBS believe that the \'91New Normal\'92 \'96 the ability to differentiate between secular and cyclical growth opportunities \'96 become more important in the future. The main driving influence on market sentiment will be structural adjustments, and the political capital is required to help mitigate the influence of low growth. This means for portfolio construction, low growth, low return, capital constrained environment, competitive advantage favours a combination of income that will generate funds for self-sustaining businesses; for groups that UBS class as \'93dividend aristocrats\'94 and who are experiencing secular growth. This leads UBS to their long-term core investment objective of being invested in high quality businesses.\
+}

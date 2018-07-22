@@ -1,0 +1,30 @@
+#summary notes for week 7
+
+ * mathematics anxiety
+  * what is it, what does it feel like?
+  * getting distracted
+  * stupid questions (Gauss)
+  * [https://docs.google.com/forms/d/1Xlgmbbr8Ac-Wy34GmwCnJKrc0opH2HADAveqM4XU4c0/viewform assessment]
+  * [https://docs.google.com/spreadsheet/oimg?key=0Ah00c0DlZRZZdDZZMFhKRlVVNU5yM1pDbE5ZQ01jSXc&oid=1&zx=gbndz6h9998t results]
+  * is it the same everywhere?
+  * where does it come from?
+   * [http://www.nationalnumeracy.org.uk/resources/111/index.html study into passing on anxiety]
+
+ * pep talk
+  * overcoming anxiety
+  * does more practice help?
+  * your a concert pianist about to perform...
+  * [http://youtu.be/rVO26URqC24?t=35s Maria João Pires] overcoming anxiety
+
+ * why is mathematics so important?
+  * yes minister they're [http://youtu.be/yeF_o1Ss1NQ?t=9s politicising mathematics]
+  * which is more important: getting the right answer, or asking the right question?
+  * layman vs programmer on doing it yourself
+  * convincing the computer
+  * [http://youtu.be/CfoKor05k1I?t=22s politics wrecks mathematical ability]
+   * worked example
+   * compare results
+   * conclusion?
+   * what happens when we add politics into the mix?
+
+ * sprouts if time?

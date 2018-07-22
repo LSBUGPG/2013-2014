@@ -1,0 +1,4 @@
+﻿function onClick ()
+ {
+  Application.Quit();
+ }

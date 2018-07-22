@@ -1,0 +1,22 @@
+#summary week 13 semester 2 notes
+
+ * what have we learned this week?
+
+ * [SemesterTwoGameProject marking for CW2 project]
+
+ * review
+  * persistence
+  * analysing problems
+   * breaking apart
+   * retesting your assumptions
+    * nine dots problem
+    * candle problem
+  * analysing solutions
+   * how to decompile your own thinking
+   * thinking beyond the human brain
+
+ * how far can we go
+  * programs that write programs
+   * using System.IO.StreamWriter
+  * Quine programs
+  * the halting problem

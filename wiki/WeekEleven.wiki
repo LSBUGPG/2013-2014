@@ -1,0 +1,18 @@
+#summary week eleven notes
+
+= Last week =
+
+ * classic game object oriented remix
+
+= This week =
+
+ * real random numbers
+ * pseudo randomness
+  * random seeds
+  * procedural data
+  * the random shuffle
+
+= Exercise =
+
+ * write the perfect song shuffle
+ * robot wars A.I.

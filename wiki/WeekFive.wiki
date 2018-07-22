@@ -1,0 +1,21 @@
+#summary week five notes
+
+= This week =
+
+ * variables
+  * dynamic types
+ * scope
+  * global (static)
+   * problems of globals
+  * instance
+  * local
+ * [http://www.pinterest.com/pin/377246906256666252 the array]
+  * an inventory
+ * the linked list (single and double)
+  * fixed time operations
+ * the binary tree
+  * guess the animal 
+ * The Matrix
+  * 2D array
+  * multi dimensional transformations
+ * Animal guessing game

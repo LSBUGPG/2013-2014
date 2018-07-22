@@ -1,0 +1,45 @@
+#summary A list of terms used in programming
+
+
+= Details =
+
+<dl>
+  <dt>Algorithm</dt>
+  <dd>A sequence of steps to solve a problem; for example, HeronsAlgorithm.</dd>
+
+  <dt>Boolean</dt>
+  <dd>True or False - named after [http://en.wikipedia.org/wiki/George_Boole George Boole].</dd>
+
+  <dt>Camel Case</dt>
+  <dd>Naming convention: LikeThis; named because the capitals are like the humps on a camels back.</dd>
+
+  <dt>Cast</dt>
+  <dd>???</dd>
+
+  <dt>Code monkey</dt>
+  <dd>Derogatory term for a programmer stereotype. see [http://www.youtube.com/watch?v=5W_wd9Qf0IE Code monkey song].</dd>
+
+  <dt>Radians</dt>
+  <dd>???</dd>
+
+  <dt>Rubber duck debugging</dt>
+  <dd>Explain your programming problem to a surrogate programmer. The act of creating the explanation often helps to uncover what the problem is. Also known as a cardboard programmer.</dd>
+
+  <dt>Floating Point</dt>
+  <dd>A number of fixed precision where the position of the decimal point can vary.</dd>
+
+  <dt>Linear interpolation</dt>
+  <dd>A number or coordinate that travels between two or more values over a given time in a straight line. An abbreviation for this is LERP.</dd> 
+
+  <dt>Normal</dt>
+  <dd>a line at right angles to a given surface or line</dd>
+
+  <dt>Normalized vector</dt>
+  <dd>a vector of length 1</dd>
+
+  <dt>Spaghetti Code</dt>
+  <dd>A program where the links between parts of the program resemble a plate of spaghetti when they are drawn out.</dd>
+
+  <dt>Vector</dt>
+  <dd>A line from point A to point B</dd>
+</dl>

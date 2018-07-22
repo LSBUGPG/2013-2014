@@ -1,0 +1,19 @@
+Find the errors and fix the structure.
+
+
+
+
+
+#pragma strict
+function OnTriggerEnter(col: Collider){
+if(col.tag == "Player"){col.transform.parent = transform.parent;}
+}
+
+function Ontriggerexit(col Collider)
+{
+    if(col.tag == "player")
+    {
+       col.transform.parent = null; 
+    }
+}
+

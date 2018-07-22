@@ -1,0 +1,16 @@
+#summary week twelve notes
+
+= Last week =
+
+ * song shuffle (random numbers)
+
+= This week =
+
+ * go through submission details
+ * interpret A.I. behaviours
+ * A.I. choice as a search problem
+ * merge robot wars A.I. sprites
+
+= Exercise =
+
+ * robot wars A.I.

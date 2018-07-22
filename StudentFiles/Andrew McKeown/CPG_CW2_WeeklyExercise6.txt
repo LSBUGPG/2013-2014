@@ -1,0 +1,4 @@
+Radio is an electical entertainment device that 
+collects radio waves and converts them into audio and music, 
+allowing the creation of "radio shows" which can be broadcast
+ to compatible devices around the world.

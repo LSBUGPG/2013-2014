@@ -1,0 +1,60 @@
+#summary week one CW2 example
+
+= Task =
+
+Create an exam style question to show understanding of some of the material covered in this class:
+ * effect of marks on performance
+ * how comfort zone effects learning
+ * conversion of Scratch blocks to UnityScript
+ * UnityScript programming style
+
+= Subject =
+
+I have chosen to create a question based on the effects of interim marks on student performance as described in the Butler 1988 study.
+
+= Question =
+
+An academic study (Butler 1988) looked at the effect different kinds of feedback had on students attitude and their final level of achievement. They studied three kinds of feedback: scores only, comments only, and both scores and comments. The following table summarises the effect scores only and comments only had on the students' attitude and achievement.
+
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr><th width="150px"></th><th width="150px">Achievement</th><th width="150px">Attitude</th></tr>
+  <tr><th>Scores only</th><td>no gain</td><td>High scorers: positive<br/>Low scorers: negative</td></tr>  
+  <tr><th>Comments only</th><td>30% gain</td><td>High scorers: positive<br/>Low scorers: positive</td></tr>
+</table>
+
+What do you think happened for students given scores and comments together?
+
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr><th width="150px">Scores + comments</th><td width="150px"></td><td width="150px">High scorers:<br/>Low scorers:</td></tr>  
+</table>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+Explain your answer:
+
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr><th width="600px"><br/><br/><br/><br/></th></tr>  
+</table>
+
+= Answers =
+
+The answers from the study were "no gain" in scores and high scorers: positive, low scorers: negative in attitude. 
+
+Explanation: the result showed that interim marks destroyed the motivation to improve in both high and low scoring students. The high scoring students didn't feel any need to read the comments and the low scoring students didn't want to.
+
+= Submission =
+
+Submitted as a PDF file to source control.
+
+= Task Log =
+
+|| *Task* || *Date* || *Start* || *End* || *Interruptions* || *Hours* ||
+|| Write out problem statement || 09/05/2014 || 09:00 || 09:10 || || 0.17 ||
+|| Review lesson topic || 09/05/2014 || 09:10 || 09:20 || || 0.17 ||
+|| Write up an exam style question || 09/05/2014 || 09:20 || 09:40 || || 0.33 ||
+|| Proof reading || 09/05/2014 || 09:40 || 09:50 || || 0.17 ||
+|| Submit work to source control || 09/05/2014 || 09:50 || 09:55 || || 0.08 ||

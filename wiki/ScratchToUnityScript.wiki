@@ -1,0 +1,65 @@
+#summary translating code from Scratch to UnityScript
+
+= Scratch to UnityScript =
+
+UnityScript is Unity's scripting language which is based on JavaScript. For most purposes, the languages are identical so you can use any JavaScript language reference as a guide:
+
+ * [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide JavaScript language guide]
+ * [http://docs.unity3d.com/Documentation/ScriptReference/index.html Unity Script Reference] (this only documents Unity library functions)
+
+<table>
+  <tr>
+    <th>Scratch</th>
+    <th>UnityScript</th>
+  </tr>
+
+  <tr>
+    <td>http://wiki.scratch.mit.edu/w/images/2.0_When_Green_Flag_Clicked.png</td>
+    <td><code>function Start () {
+
+}</code></td>
+  </tr>
+
+  <tr>
+    <td>http://wiki.scratch.mit.edu/w/images/2.0_Forever.png</td>
+    <td><code>for ( ;; ) {
+
+}</code></td>
+  </tr>
+
+  <tr>
+    <td>http://lsbu-ame-5-cpg-2013-2014.googlecode.com/svn/trunk/PaulSinnett/update.png</td>
+    <td><code>function Update () {
+    transform.Translate(transform.forward * Time.deltaTime);
+}</code></td>
+  </tr>
+
+
+  <tr>
+    <td>http://wiki.scratch.mit.edu/w/images/2.0_Repeat_%28%29.png</td>
+    <td><code>for ( var i: int = 0; i < 10; i++ ) {
+
+}</code></td>
+  </tr>
+
+  <tr>
+    <td>http://wiki.scratch.mit.edu/w/images/2.0_If_%28%29_Then.png</td>
+    <td><code>if ( ) {
+}</code></td>
+  </tr>
+
+  <tr>
+    <td>http://wiki.scratch.mit.edu/w/images/2.0_If_%28%29_Then%2C_Else.png</td>
+    <td><code>if ( ) {
+
+} else {
+
+}</code></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td><code></code></td>
+  </tr>
+
+</table>

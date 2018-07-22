@@ -1,0 +1,54 @@
+#summary example CW2 week 5
+
+== Task ==
+
+The task is to take a common game programming problem, research the formula required to solve the problem, and convert that solution into UnityScript code.
+
+== Problem statement ==
+
+To calculate the angle of elevation required to hit a target at a known distance with a projectile fired at a fixed velocity. The projectile will fall under gravity.
+
+== Formula ==
+
+The formula for calculating the angle of elevation required to hit a given range and projectile velocity is:
+
+http://upload.wikimedia.org/math/8/9/4/8942f1b7ecb6b7dff8477ddbf54c666b.png
+
+where the theta symbol is the angle, g is gravity, R is the range, and v is the velocity.
+
+== Solution ==
+
+Here is the UnityScript to find the angle of elevation in degrees or return -1 if the target is out of range.
+
+{{{
+function ElevationAngle (target: Transform, velocity: float): float {
+
+    var range: float = target.position.x - transform.position.x;
+    var gravity: float = Physics2D.gravity.magnitude;
+    var sine: float = (gravity * range) / (velocity * velocity);
+    var angle: float = -1.0;
+    if (sine >= -1 && sine <= 1) {
+        angle = 0.5 * Mathf.Asin(sine);
+    }
+
+    return angle * Mathf.Rad2Deg;
+}
+}}}
+
+== Notes ==
+
+This function assumes that you and your target are aligned with the world axes in 2D and that you are at the same height (y value).
+
+== Submission ==
+
+Submitted as a PDF file to source control.
+
+== Task Log ==
+
+|| *Task* || *Date* || *Start* || *End* || *Interruptions* || *Hours* ||
+|| Write out problem statement || 04/03/2014 || 09:00 || 09:10 || || 0.17 ||
+|| Research formula || 04/03/2014 || 09:10 || 09:20 || || 0.17 ||
+|| Program the solution || 04/03/2014 || 09:20 || 09:40 || || 0.33 ||
+|| Test the solution || 04/03/2014 || 09:40 || 09:50 || || 0.17 ||
+|| Write up the solution || 04/03/2014 || 09:50 || 09:55 || || 0.08 ||
+|| Submit work to source control || 04/03/2014 || 09:55 || 10:00 || || 0.08 ||

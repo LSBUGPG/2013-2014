@@ -1,0 +1,56 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww9000\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\ql\qnatural\pardirnatural
+
+\f0\fs24 \cf0 \ul \ulc0 Coding & Programming - Read Me\ulnone \
+\
+This document contains information of what is on this CD.\
+\
+There are 3 main folders:\
+* \ul 1.Week_Exercises \ulnone - this folder contains 12 other folders. Each folder includes downloads of each of my weekly exercises that I had created in Scratch. \
+\
+* \ul 2.Development_Log  \ulnone - this folder contains a PDF file of my Development Log. I created it using a Word Document and tables. \
+\
+* \ul 3.Graphic_Materials \ulnone - this folder contains other folders, which all contain the graphics I used to make the weekly exercises. \
+\
+\
+\
+Links to Scratch Exercises - Username is "x-Grimistress-x":\
+\
+Exercise_01:\
+http://scratch.mit.edu/projects/12629233/\
+\
+Exercise_02:\
+http://scratch.mit.edu/projects/13044210/\
+\
+Exercise_03:\
+http://scratch.mit.edu/projects/13068170/\
+\
+Exercise_04:\
+http://scratch.mit.edu/projects/13510656/\
+\
+Exercise_05:\
+http://scratch.mit.edu/projects/13809275/\
+\
+Exercise_06:\
+http://scratch.mit.edu/projects/13840240/\
+\
+Exercise_07:\
+http://scratch.mit.edu/projects/14436482/\
+\
+Exercise_08:\
+Golden Bull Text Exercise (see "Weekly Exercise" folder)\
+\
+Exercise_09:\
+http://scratch.mit.edu/projects/14727673/\
+\
+Exercise_10:\
+http://scratch.mit.edu/projects/15362864/\
+\
+Exercise_11:\
+http://scratch.mit.edu/projects/15401263/\
+\
+Exercise_12:\
+http://scratch.mit.edu/projects/15427751/}

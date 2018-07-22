@@ -1,0 +1,30 @@
+#summary week seven notes
+
+ * review Halloween projects
+
+= This week =
+
+ * [https://docs.google.com/forms/d/1suunkXQgR8Bx0X7OHPMo01U-cLZWEEyTektGErGf9ww/viewform make a guess]
+
+ * computer *science*
+  * what do scientists do?
+  * [http://scratch.mit.edu/projects/13922374/ quick project]
+
+ * warm ups
+  * [http://scratch.mit.edu/projects/11945272/ the gift], do you has it?
+  * unlearning
+  * how do we learn?
+  * [http://www.youtube.com/watch?v=z6lL83wl31E proof by folding paper]
+  * math or maths?
+  * different types of knowledge
+  * abstraction
+  * 'nobody knows' rules
+
+ * estimation
+  * measurement
+  * the "waterfall" method
+  * lies, damned lies, and schedules
+
+= Exercises =
+
+ * time logs

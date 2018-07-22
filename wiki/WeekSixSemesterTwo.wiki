@@ -1,0 +1,27 @@
+#summary notes for week 6
+
+ * recap
+  * using a sine wave to drive an alpha fade
+  * using trajectory calculations to hit a target
+  * using a feedback function to draw pretty pictures
+
+ * exercise (week 5)
+  * pick a common game programming problem (not trajectory example)
+   * e.g. what angle do I need to turn to face a target
+  * research the formula
+  * write up an explanation of how you could use the formula to solve the problem
+   * [WeekFiveCourseWorkTwoExample example]
+
+ * Unity programming and infinite loops
+  * the perils of single threaded programs
+  * easy mistake to make (spirit of exploration)
+   * the simplest program that can fail
+  * how to find an infinite loop
+  * how to escape?
+
+ * SemesterTwoGameProject
+
+ * searching and sorting
+  * review Robot A.I.
+   * find the entry with the least hit points
+  * how to figure out the algorithm

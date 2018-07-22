@@ -1,0 +1,134 @@
+#summary Code to check any row, column, or tile of a Sudoku grid for duplicates
+
+{{{
+#pragma strict
+
+var cells: int [];
+
+var sudokuBackground: Texture2D;
+
+function Start () {
+
+	cells = [
+	
+		2,0,5, 0,0,7, 0,0,6,
+		4,0,0, 9,6,0, 0,2,0,
+		4,0,0, 0,8,0, 0,4,5,
+		
+		9,8,0, 0,7,4, 0,0,0,
+		5,7,0, 8,0,2, 0,6,9,
+		0,0,0, 6,3,0, 0,5,7,
+		
+		7,5,0, 0,2,0, 0,0,0,
+		0,6,0, 0,5,1, 0,0,2,
+		3,0,0, 4,0,0, 5,0,8
+	];
+	
+	sudokuBackground = new Texture2D(1,1);
+	sudokuBackground.SetPixel(0,0,Color.cyan);
+	sudokuBackground.Apply();
+	
+	var goodList: int [] = [1,2,3,4,5,6,7,8,9];
+	var badList: int [] = [1,2,3,3,5,6,7,9,9];
+	//Debug.Log(HasDuplicate(goodList));
+	//Debug.Log(HasDuplicate(badList));
+
+	//Debug.Log(HasDuplicate(GetRow(0)));
+	//Debug.Log(HasDuplicate(GetRow(1)));
+
+	//Debug.Log(HasDuplicate(GetColumn(0)));
+	//Debug.Log(HasDuplicate(GetColumn(1)));
+
+	Debug.Log(HasDuplicate(GetTile(0,0)));
+	Debug.Log(HasDuplicate(GetTile(1,0)));
+}
+
+function GetCell(column: int, row: int): int {
+
+	var cell: int = cells[row*9+column];
+	return cell;
+} 
+
+function GetCellAsString(column: int, row: int): String {
+
+	return (GetCell(column, row) == 0)? "" : GetCell(column, row).ToString();
+} 
+
+function GetRow(rowNumber: int): int[] {
+
+	var row: int[] = new int[9];
+
+	for (var column: int = 0; column < 9; column++) {
+	
+		row[column] = GetCell(column, rowNumber);
+	}
+	
+	return row;
+}
+
+function GetColumn(columnNumber: int): int[] {
+
+	var column: int[] = new int[9];
+
+	for (var row: int = 0; row < 9; row++) {
+	
+		column[row] = GetCell(columnNumber, row);
+	}
+	
+	return column;
+}
+
+function GetTile(tileRow: int, tileColumn: int): int [] {
+
+	var tile: int [] = new int [9];
+	
+	for (var row: int = 0; row < 3; row++) {
+		
+		for (var column: int = 0; column < 3; column++) {
+		
+			tile[row*3+column] = GetCell(tileColumn*3+column, tileRow*3+row);
+		}
+	}
+	
+	return tile;
+}
+
+function OnGUI () {
+
+	GUI.skin.label.normal.background = sudokuBackground;
+	GUI.skin.label.normal.textColor = Color.black;
+	GUI.skin.label.alignment = TextAnchor.MiddleCenter;
+
+	for (var y: int = 0; y < 9; y++) {
+	
+		for (var x: int = 0; x < 9; x++) {
+	
+			GUI.Label(Rect(50+x*50,y*50,45,45), GetCellAsString(x,y));
+		}
+	}
+}
+
+// this function doesn't check for 0 values
+function HasDuplicate(numbers: int[]): boolean {
+
+	var slots: int [] = [0,0,0,0,0,0,0,0,0,0];
+	
+	for (var number: int in numbers) {
+	
+		if (slots[number] != 0) {
+		
+			return true;
+			
+		} else {
+		
+			slots[number] = number;
+		}
+	}
+	
+	return false;
+}
+
+function Update () {
+
+}
+}}}

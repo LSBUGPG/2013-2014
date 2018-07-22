@@ -1,0 +1,7 @@
+#summary criteria for marking project work
+
+== Project environment correctly configured ==
+
+Marks in this category are for correctly submitting project configuration files needed to build your projects. For example, in a Unity submission, all of the ProjectSettings files need to be included in the submission and the settings in each file must be configured for building the project.
+
+If a Unity project is submitted without these files, the Unity editor will create defaults. These defaults may not contain the settings required to build your project correctly.

@@ -1,0 +1,26 @@
+#summary what I'm looking for in the programming of your game project
+
+= Introduction =
+
+The purpose of your game project in coursework 2 is to show your understanding of programming concepts and practices.
+
+There are no restrictions on the length of this game, the type of game, or what the game must do. Instead, you need to focus on putting simple programming ideas into practice.
+
+You may include program code from the Internet or other sources in your submission, but all such code needs to be clearly commented and include a hyperlink or other reference to the original. Failure to include clear references could lead to disqualification on the grounds of plagiarism. You should also clearly indicate the parts of the program that you have changed from the original or you'll risk losing marks because we are unable to determine your contribution.
+
+The marking criteria for your projects are listed in the module guide and summarised here:
+ * [ConfigurationMarkingCriteria Project environment correctly configured]
+ * All source files included
+ * All assets included
+ * Task tracking log
+ * Free of syntax errors
+ * Free of build warnings
+ * Free of bugs
+ * Minimal duplication of code
+ * Descriptive variable and function names
+ * Neat and consistent formatting
+ * High cohesion
+ * Loose coupling
+ * Useful comments
+ * Demonstration of programming concepts
+ * Removal of redundant code

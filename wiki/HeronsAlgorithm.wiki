@@ -1,0 +1,11 @@
+#summary Heron of Alexandria's algorithm for finding a square root
+
+= Heron's algorithm =
+
+To find the square root of a number:
+ * make a guess
+ * then:
+  * divide the number by your guess
+  * if the answer is your guess you have the square root
+  * otherwise, improve your guess by taking the average
+  * repeat

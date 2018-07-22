@@ -1,0 +1,1 @@
+On this disk there is all the weekly exercises on scratch as well as my inspirations on a word doc.  

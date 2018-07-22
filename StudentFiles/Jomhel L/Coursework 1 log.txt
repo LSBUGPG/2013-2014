@@ -1,0 +1,17 @@
+scaring ting exercise took 826.7(s)
+
+why doesn't this work? remix excercise took 578.7(s)
+
+dinosaur crush exercise took 987.6(s)
+
+adventure time exercise took 2790.8(s)
+
+crep check exercise took 3967.7(s)
+
+week 9 exercise took 2634.6(s)
+
+happy halloween exercise took 406.7(s)
+
+Robot Rumble exercise took 6067.9(s)
+
+firemelon exercise took 9876.9(s)

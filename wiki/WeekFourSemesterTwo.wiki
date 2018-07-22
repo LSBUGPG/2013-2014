@@ -1,0 +1,51 @@
+#summary semester 2 week 4
+ * review of splines
+  * walkthrough
+  * [http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bezier_3_big.gif/240px-Bezier_3_big.gif explanation]
+
+ * number systems
+  * tally (base 5 +)
+   * adding
+   * multiplying?
+
+  * [http://www.youtube.com/watch?v=Oev332D0K0I Celtic English (base 20 +)]
+  * Roman numerals (base 5/10 +) 
+   * adding
+   * multiplying?
+   * early use of base 2
+   * early use of compression
+
+  * money (base 2/5/10)
+   * how many coins do we need?
+    * (shapes of constant width)
+   * adding
+   * giving change
+   * multiplying?
+   * dividing?
+
+  * clocks (base 60/12/24 +)
+   * adding
+   * subtracting
+
+  * our familiar system (base 10)
+   * adding
+   * multiplying / dividing
+   * big numbers scientific notation
+   * really big numbers ?
+
+  * binary (base 2)
+   * adding
+   * multiplying
+
+  * octal (base 8)
+   * pros and cons
+   * modern usage (permissions)
+
+  * hexadecimal (base 16)
+   * pros and cons
+   * modern usage
+    * HTML colours
+    * machine code
+    * bitmapped data
+   
+  

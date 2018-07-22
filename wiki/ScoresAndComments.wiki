@@ -1,0 +1,20 @@
+#summary results of Butler(1988) study into score and marks
+
+<table width="400" cellpadding="2">
+<tr valign="top"><td>•</td><td>264 low and high ability grade 6 students in 12 classes in 4 schools; analysis of 132 students at the top and bottom of each class</td></tr>
+<tr valign="top"><td>•</td><td>Same teaching, same aims, same teachers, same classwork</td></tr>
+<tr valign="top"><td>•</td><td>Three kinds of feedback: score, comments, and scores + comments</td></tr>
+</table>
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr><th></th><th>Achievement</th><th>Attitude</th></tr>
+  <tr><th>Scores</th><td>no gain</td><td>High scorers: +<br/>Low scorers: -</td></tr>  
+  <tr><th>Comments</th><td>30% gain</td><td>High scorers: +<br/>Low scorers: +</td></tr>
+</table>
+
+What do you think happened for the students given both scores and comments?
+
+ * A. Gain 30%; Attitude all +
+ * B. Gain 30%; Attitude high +, low -
+ * C. Gain 0%; Attitude all +
+ * D. Gain 0%; Attitude high +, low -
+ * E. Something else?

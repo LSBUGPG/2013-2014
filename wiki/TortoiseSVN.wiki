@@ -1,0 +1,46 @@
+#summary instructions for set up
+
+= Setting up Tortoise SVN =
+
+University computers should already have this software installed. If you want to install at home follow the installation instructions below.
+
+== Installation ==
+
+If you don't already have TortoiseSVN installed on your computer you can download the latest copy from:
+http://tortoisesvn.net/downloads.html
+
+Install the program. You may need to reboot to complete the installation. Once installed, there is no program you need to run. Instead it adds extra options to your menus when accessing files and folders.
+
+== Connecting to a repo. ==
+
+A repo. (source code repository) is a server somewhere that holds the full history of any source code you load into it.
+
+To connect, make an empty folder on your machine. A good location for this is inside your `Documents` folder. You can name this folder anything you like. This folder will act as way to upload and download source code to the server. You can also use this to collaborate with other programmers. This is similar to Dropbox, except that you have more control over files that you send or receive.
+
+Right click on your empty folder and choose `SVN Checkout...`
+
+In the "URL of repository" box enter:
+`https://lsbu-ame-5-cpg-2013-2014.googlecode.com/svn/trunk`
+
+== Getting files from the repo. ==
+
+Whenever a files have changed in the repo. you can get the latest version by right clicking on your folder and choosing `SVN Update`.
+
+If you've changed files locally that have also changed on the server, this will cause a merge of the files. As long as their are no conflicting changes, there will be no problem. If there are conflicting changes, you need to manually merge the files yourself or use the merge tools provided by TortoiseSVN.
+
+== Sending changes to the repo. ==
+
+Once you have local changes, files you have changed will be marked with a red icon. You can send these changes to the server, by right clicking and choosing `SVN Commit`.
+
+Sending changes requires you to enter your password. Your password for Google Code is automatically generated and you can find it from this link:
+https://code.google.com/hosting/settings
+
+== Adding, deleting, or moving files ==
+
+Every action you perform inside a linked Tortoise SVN folder must be communicated to the server.
+
+If you want to add a new file, you need to use the menus to add the file to SVN first. Adding a file means adding it locally, you still need to commit your change to the server as above.
+
+To delete a file, use the right click menu to delete the file from SVN first, then choose `SVN Commit` to send your change.
+
+You can move a file by dragging it using the right mouse button. That way, when you drop the file where you want it, you'll get the context menu to inform SVN of the move. SVN will commit the changes as a delete from the old location, and an add to the new location.

@@ -1,0 +1,16 @@
+#summary Summary of the exercises required for marking
+
+= Exercises =
+
+|| WeekOne || your first Scratch program (playing around with Scratch) || - ||
+|| WeekTwo || complete the self-testing program by calculating the angle of reflection || - ||
+|| WeekThree || make your own point and click adventure game || - ||
+|| WeekFour || laying out a grid of sprites using loops || - ||
+|| WeekFive || remix your own self-learning guessing game || - ||
+|| WeekSix || make a project for Halloween || - ||
+|| WeekSeven || log your time on a project (e.g. a fireworks project) || log ||
+|| WeekEight || reword bad writing and submit changes through source control || log ||
+|| WeekNine || draw pictures by creating your own blocks || log ||
+|| WeekTen || decompose a classic video game design into Scratch sprites (objects) || log ||
+|| WeekEleven || song shuffle || log ||
+|| WeekTwelve || robot A.I. || log ||

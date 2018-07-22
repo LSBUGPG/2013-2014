@@ -1,0 +1,31 @@
+#summary semester 2 week 1
+
+= Unity =
+
+ * [http://scratch.mit.edu/projects/17158426/#fullscreen Student Lotto]
+ * Feedback
+  * retrospective
+  * [https://docs.google.com/forms/d/1f1-97nDe21ESaDbU0zWP2ZgcdSdcKONWb3VXsxsvFjk/viewform a letter from the future]
+  * [http://youtu.be/gyxA0FgS-bQ?t=42m33s Butler(1988) study on feedback]
+  * ScoresAndComments
+  * your progress
+   * good experimentation
+   * very good de-construction
+   * for improvement: source control (exercise?)
+ * What to expect this semester
+  * game project
+  * frustration...
+  * discomfort and learning
+  * how do you fold your arms?
+  * are you stuck? Good!
+ * UnityScript (JavaScript)
+  * ScratchToUnityScript
+  * GoodCodeLayout and BadCodeLayout
+  * CamelCase names
+  * [http://youtu.be/fqGDNqxq2Bc?t=42s Egyptian brackets]
+  * [http://www.thedrum.com/uploads/drum_basic_article/97639/main_images/WheresWallyAtWembley_6.jpg Where's Wally?]
+  * Where's the MissingBracket ?
+  * Get the most errors with 1 letter wrong
+ * Review
+  * The learning paradox
+  * Write your own test

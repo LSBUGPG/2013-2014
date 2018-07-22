@@ -1,0 +1,26 @@
+#summary week three notes
+
+= Last week =
+
+ * finish up last week's exercises
+  * read the program to your [ProgrammerGlossary RubberDuck]
+  * draw out the inputs and expected outputs
+  * self-testing
+  * remix the self test program as make it pass
+   * check sign ups for Scratch
+   * check sign ups for Google Code
+   * check submission of first programs
+  * the backpack in Scratch
+  * backpack the resulting code to original
+
+= Adventure game logic =
+
+ * true, false, and, or, not
+ * constructing expressions
+ * precedence rules
+ * use say to check expressions
+ * read through demo adventure
+ * choose your path:
+  * just go for it
+  * follow me
+ 

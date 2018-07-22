@@ -1,0 +1,2 @@
+Repurpose wand into firework took 458 second(s)
+Script firework as a clone to launch and explode took 930 second(s)

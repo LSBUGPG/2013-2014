@@ -1,0 +1,29 @@
+#summary week 8 course work 2
+
+= Task =
+
+Take any simple game design and break it down into the technological components you'd need to create in order to make this game. Diagram your analysis in the form of a technology tree.
+
+= Subject =
+
+I have chosen Flappy Bird as my game design.
+
+= Connection Diagram =
+
+https://docs.google.com/drawings/d/1efaoZRJrrpc3TDLPoH-4QCqjlzOfa-Dz4UtZ7yBRYgY/pub?w=960&h=720&dummy.png
+
+= Notes =
+
+The arrows represent the dependencies between the technologies. The dotted lines represent cases where one or another technology is sufficient. For example, above, collision detection could be implemented using sprites or geometry, or both.
+
+= Submission =
+
+Submitted as a PDF file to source control.
+
+= Task Log =
+
+|| *Task* || *Date* || *Start* || *End* || *Interruptions* || *Hours* ||
+|| Write out problem statement || 09/05/2014 || 11:50 || 11:55 || || 0.08 ||
+|| Analyse game technologies || 09/05/2014 || 11:55 || 12:05 || || 0.17 ||
+|| Draw out tech tree || 09/05/2014 || 12:05 || 12:15 || || 0.17 ||
+|| Submit work to source control || 09/05/2014 || 12:15 || 12:20 || || 0.08 ||

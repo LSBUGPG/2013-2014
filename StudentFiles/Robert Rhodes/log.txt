@@ -1,0 +1,6 @@
+Week seven exersize took 120 second(s)
+
+Week eight exersize took 1765 second(s)
+
+week nine exersize took  950 second(s)
+week 10 exersize took 3600 second(s)

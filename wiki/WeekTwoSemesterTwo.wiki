@@ -1,0 +1,44 @@
+#summary semester 2 week 2
+
+= The third dimension =
+
+ CourseWorkOneResults
+
+ * warm up
+  * reflection on UnityScript
+  * through the looking glass
+  * is everyone on SVN?
+  * add emails to Scratch directory
+
+ * traffic lights
+  * feedback system
+   * green - I'm okay
+   * yellow - slow down
+   * red - stop, I have a question
+  * meta game (chicken)
+
+ * terminology:
+  * left-handed and right-handed rules
+   * 3D gangsta style?
+   * Unity? Max?
+  * vectors, directions, and points
+   * unit vectors and normalising
+   * linear interpolation (lerp)
+  * the origin
+   * frames of reference
+   * local space, world space, parent space
+  * vertex and vertices
+  * matrix and matrices
+   * Unity transforms
+   * why matrices?
+  * Euler angles and quaternions
+   * Euler rotation order
+   * quaternions
+   * spherical linear interpolation (slerp)
+  * splines
+   * if we have time?
+
+ * group up
+  * lolly stick method
+  * team identity
+  * make an [http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Orrery_small.jpg/800px-Orrery_small.jpg orrery]

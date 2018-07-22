@@ -1,0 +1,30 @@
+#summary week three CW2 example
+
+= Task =
+
+Connect up multiple interpolation scripts to a scene in Unity. Show how the scripts are connected together and show the result.
+
+= Subject =
+
+I have chosen to attach multiple layers of movement interpolation scripts together to produce a spline. And I have attached a Trail Renderer to show the path.
+
+= Connection Diagram =
+
+https://lsbu-ame-5-cpg-2013-2014.googlecode.com/svn/trunk/PaulSinnett/CW2/Week3/connections.png
+
+= Screenshot =
+
+https://lsbu-ame-5-cpg-2013-2014.googlecode.com/svn/trunk/PaulSinnett/CW2/Week3/spline.jpg
+
+= Submission =
+
+Submitted as a PDF file to source control.
+
+= Task Log =
+
+|| *Task* || *Date* || *Start* || *End* || *Interruptions* || *Hours* ||
+|| Write out problem statement || 09/05/2014 || 11:25 || 11:30 || || 0.08 ||
+|| Create Unity Scene || 09/05/2014 || 11:30 || 11:40 || || 0.17 ||
+|| Diagram the connections || 09/05/2014 || 11:40 || 11:50 || || 0.17 ||
+|| Screen grab || 09/05/2014 || 11:50 || 11:55 || || 0.08 ||
+|| Submit work to source control || 09/05/2014 || 11:55 || 12:00 || || 0.08 ||

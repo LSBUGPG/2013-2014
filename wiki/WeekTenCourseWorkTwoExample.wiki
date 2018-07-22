@@ -1,0 +1,34 @@
+#summary week 10 course work 2
+
+= Task =
+
+The task was to take an everyday object and describe it as if you were a Martian, encountering it for the first time.
+
+= Subject =
+
+I have chosen to describe a tree.
+
+= Description =
+
+A tree is a life form that bridges the land and the atmosphere. It's main structural characteristic is that it splits and splits again at regular intervals from its centre. Approximately half of the organism extends into the earth while the remainder reaches out toward the midday sun. 
+
+Trees form out of the atmosphere. Above ground, each split eventually ends in a leaf. These use light from the Sun to split carbon from the air and combine it with water extracted from the earth to produce the carbohydrates which form the majority of their mass. They expel the waste oxygen into the air and many trees exchange some of the carbohydrates for earth minerals extracted by other life forms known as fungi.
+
+Many trees also exchange carbohydrates with other earth creatures to help them procreate. Some creatures participate in pollination, while others carry the seeds to new locations well away from the parent tree.
+
+The tree also discards waste carbohydrates inside itself to provide a frame on which to continue its growth. As trees age, this internal structure dries out and hardens providing a solid trunk. In old trees it may erode away entirely leaving the main trunk hollow. The depositing of waste carbohydrate matter over time records the environmental conditions in which the tree has lived, making this life form a useful resource for studying atmospheric changes over many years.
+
+http://lsbu-ame-5-cpg-2013-2014.googlecode.com/svn/trunk/PaulSinnett/CW2/Week10/tree.jpg
+
+= Submission =
+
+Submitted as a PDF file to source control.
+
+= Task Log =
+
+|| *Task* || *Date* || *Start* || *End* || *Interruptions* || *Hours* ||
+|| Write out problem statement || 09/05/2014 || 12:20 || 12:25 || || 0.08 ||
+|| Study a tree || 09/05/2014 || 12:25 || 12:35 || || 0.17 ||
+|| Write up thoughts || 09/05/2014 || 12:35 || 12:45 || || 0.17 ||
+|| Draw diagram || 09/05/2014 || 12:45 || 12:50 || || 0.08 ||
+|| Submit work to source control || 09/05/2014 || 12:50 || 12:55 || || 0.08 ||

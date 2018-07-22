@@ -1,0 +1,6 @@
+#summary some ideas for exercises on the course
+
+ * calculate angle of elevation to hit target
+ * uses of flags and bit masks
+ * uses of sine waves (timed flasher)
+ * research a genius you hold in high regard and write a short biography of how they developed their skills

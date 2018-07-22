@@ -1,0 +1,21 @@
+#summary week none notes
+
+= Last week =
+
+ * rewriting gobbledygook 
+ * review of the Greek number system
+
+= This week =
+
+ * growth
+  * constant
+  * logarithmic
+  * linear
+  * polynomial
+  * exponential
+  * factorials!
+
+= Exercise =
+
+ * how many mints?
+ * composing pictures (using blocks)
